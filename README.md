@@ -24,7 +24,7 @@ cp -r NativeWebSocket/NativeWebSocket/Assets/WebSocket /path/to/project/Assets
 
 ## Usage
 
-To use this package, you must have a Speechmatics API key, which can be acquired from: (Speechmatics Portal)[https://www.speechmatics.com/]
+To use this package, you must have a Speechmatics API key, which can be acquired from: [Speechmatics Portal](https://www.speechmatics.com/)
 
 Apply both the scripts to a game object as shown:
 
